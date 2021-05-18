@@ -1,0 +1,15 @@
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/bin/Debug/net5.0/Estrutura_dio.deps.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/bin/Debug/net5.0/Estrutura_dio.runtimeconfig.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/bin/Debug/net5.0/Estrutura_dio.runtimeconfig.dev.json
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/bin/Debug/net5.0/Estrutura_dio.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/bin/Debug/net5.0/ref/Estrutura_dio.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/bin/Debug/net5.0/Estrutura_dio.pdb
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/Estrutura_dio.csprojAssemblyReference.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/Estrutura_dio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/Estrutura_dio.AssemblyInfoInputs.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/Estrutura_dio.AssemblyInfo.cs
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/Estrutura_dio.csproj.CoreCompileInputs.cache
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/Estrutura_dio.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/ref/Estrutura_dio.dll
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/Estrutura_dio.pdb
+/Users/warlei/Arquivos/projetos/loovi/Estrutura_de_dados/estruturaDeDados/Estrutura_dio/obj/Debug/net5.0/Estrutura_dio.genruntimeconfig.cache
